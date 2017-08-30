@@ -19,3 +19,8 @@ body {
 .img-medium {
     height: 200px;
 }
+.container {
+    text-align: center;
+    background: grey;
+    font-family: comic sans;
+}
