@@ -20,6 +20,8 @@ body {
     height: 200px;
 }
 .container {
+    max-width: 80px;
+    margin: 0 auto;
     text-align: center;
     background-color: grey;
     font-family: comic sans;
