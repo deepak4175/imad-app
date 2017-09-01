@@ -40,7 +40,7 @@ app.use(morgan('combined'));
     </body>
   </html>`;
   
-  return newtemplate;
+  return Templateone;
   
 }
 
